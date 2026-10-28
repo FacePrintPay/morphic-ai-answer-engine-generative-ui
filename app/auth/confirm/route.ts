@@ -30,3 +30,5 @@ export async function GET(request: NextRequest) {
   // redirect the user to an error page with some instructions
   redirect(`/auth/error?error=No token hash or type`)
 }
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=route.ts

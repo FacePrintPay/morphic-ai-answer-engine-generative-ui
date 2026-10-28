@@ -127,3 +127,5 @@ When working with Supabase, follow the cursor rules in `.cursor/rules/` for:
 - Setting up RLS policies
 - Writing edge functions
 - SQL style guide
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=CLAUDE.md

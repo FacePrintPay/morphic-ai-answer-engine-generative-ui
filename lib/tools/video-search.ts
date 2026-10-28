@@ -35,3 +35,5 @@ export function createVideoSearchTool(fullModel: string) {
 
 // Default export for backward compatibility, using a default model
 export const videoSearchTool = createVideoSearchTool('openai:gpt-4o-mini')
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=video-search.ts

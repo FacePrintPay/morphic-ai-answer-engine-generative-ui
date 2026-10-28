@@ -62,3 +62,5 @@ version 2.0, available at
 https://www.contributor-covenant.org/version/2/0/code_of_conduct.html.
 
 [homepage]: https://www.contributor-covenant.org
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=CODE_OF_CONDUCT.md
